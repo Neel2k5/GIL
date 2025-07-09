@@ -2,3 +2,4 @@ pat.txt
 gilVenv/
 .env
 history/*
+.gitignore
