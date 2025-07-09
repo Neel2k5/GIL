@@ -30,6 +30,10 @@ MODEL=<Model name>
 }
 
 ```
+5. Create the history folder
+```
+mkdir history
+```
 4. Setup the python virtual env
 ```
 python3 venv gilVenv
